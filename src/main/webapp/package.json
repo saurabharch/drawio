@@ -30,7 +30,7 @@
     "electron-log": "^4.4.4",
     "electron-progressbar": "^2.0.1",
     "electron-store": "^8.0.0",
-    "electron-updater": "^4.6.5",
+    "electron-updater": "^6.3.0",
     "pdf-lib": "^1.16.0"
   },
   "devDependencies": {
